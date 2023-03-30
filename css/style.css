@@ -133,6 +133,19 @@ body{
     transform: scale(1.75);
 }
 
+.php{
+    float: left;
+    margin-right: 20px;
+    max-width: 320px;
+    border: 3px solid #11101b;
+    border-radius: 10px;
+    transition: transform .2s;
+}
+
+.php:hover{
+    transform: scale(1.75);
+}
+
 .totalwar{
     float: left;
     margin-right: 20px;
